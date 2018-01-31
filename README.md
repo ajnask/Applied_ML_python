@@ -9,7 +9,7 @@ This assignment is based on a data challenge from the Michigan Data Science Team
 
 All data for this assignment has been provided through the [Detroit Open Data Portal](https://data.detroitmi.gov/).
 
-Exploratory Data Analysis and Predictive Modeling using Gradient boosting has been done using python. 
+**Exploratory Data Analysis and Predictive Modeling using Gradient boosting has been done using python and are given in this repository**
 
 File descriptions give below:
 
